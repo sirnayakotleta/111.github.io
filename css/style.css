@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.header-menu-list{
+  display: flex;
+  list-style: none;
+  background-color: black;
+}
+.header-menu-list-item{
+
+    padding: 10px;
+}
+
+.header-menu-list-item:hover{
+  background-color: darkgray;
+
+}
+
+
+a{
+  color: white;
+  font-size: 24px;
+  text-decoration: none;
+
+}
+
+header{
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+
+
+}
+
+
+.logo{
+
+width: 200px;
+
+}
